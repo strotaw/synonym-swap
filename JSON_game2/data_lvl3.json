@@ -1,0 +1,26 @@
+[
+    {
+        "question": "My house is ",
+        "que2": "big",
+        "answer": "huge",
+        "option": ["huge", "burn"]
+    },
+    {
+        "question": "The car was very ",
+        "que2": "good",
+        "answer": "great",
+        "option": ["bad", "great"]
+    },
+    {
+        "question": "The bike is ",
+        "que2": "small",
+        "answer": "tiny",
+        "option": ["tiny", "active"]
+    },
+    {
+        "question": "She is very  ",
+        "que2": "cold",
+        "answer": "cool",
+        "option": ["heavy", "cool"]
+    }
+]

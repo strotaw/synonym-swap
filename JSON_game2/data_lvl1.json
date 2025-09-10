@@ -1,0 +1,32 @@
+[
+    {
+        "question" : "the bear is ",
+        "que2" : "big",
+        "answer" : "large",
+        "option" : ["soft", "small", "fast", "large"]
+    },
+    {
+        "question" : "the dog is ",
+        "que2" : "happy",
+        "answer" : "joyful",
+        "option" :  ["sad", "angry", "joyful", "tired"]
+    },
+    {
+        "question" : "the bird is ",
+        "que2" : "loud",
+        "answer" : "noisy",
+        "option" : ["dumb", "small", "silly", "noisy"]
+    },
+    {
+        "question": "the fox is ",
+        "que2": "quick",
+        "answer": "fast",
+        "option": ["slow", "fast", "lazy", "quiet"]
+    },
+    {
+        "question": "the rabbit is ",
+        "que2": "soft",
+        "answer": "fluffy",
+        "option": ["rough", "fluffy", "hard", "smooth"]
+    }
+]

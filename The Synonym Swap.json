@@ -1172,6 +1172,30 @@
         "name": "3.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "JSON_game2/data_lvl1.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "JSON_game2\\data_lvl1.json",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "JSON_game2/data_lvl2.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "JSON_game2\\data_lvl2.json",
+        "userAdded": false
+      },
+      {
+        "disablePreload": false,
+        "file": "JSON_game2/data_lvl3.json",
+        "kind": "json",
+        "metadata": "",
+        "name": "JSON_game2\\data_lvl3.json",
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6389,7 +6413,7 @@
               },
               "parameters": [
                 "",
-                "..\\..\\JSON_game2\\data_lvl1.json",
+                "JSON_game2\\data_lvl1.json",
                 "soal",
                 ""
               ]
@@ -10145,7 +10169,7 @@
               },
               "parameters": [
                 "",
-                "..\\..\\JSON_game2\\data_lvl2.json",
+                "JSON_game2\\data_lvl2.json",
                 "soal",
                 ""
               ]
@@ -15351,7 +15375,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "gameplay",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15387,7 +15410,7 @@
                   },
                   "parameters": [
                     "",
-                    "..\\..\\JSON_game2\\data_lvl3.json",
+                    "JSON_game2\\data_lvl3.json",
                     "soal",
                     ""
                   ]

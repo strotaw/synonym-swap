@@ -1,0 +1,23 @@
+[
+    {
+        "question" : "The boy was ",
+        "que2" : "angry",
+        "text" : "when he lose ",
+        "answer" : "mad",
+        "option" : ["mad", "happy", "tired", "sad"]
+    },
+    {
+        "question": "The girl felt ",
+        "que2": "excited",
+        "text": "about her party",
+        "answer": "thrilled",
+        "option": ["bored", "thrilled", "angry", "sad"]
+    },
+    {
+        "question": "My dad was ",
+        "que2": "proud",
+        "text": "of her daughter",
+        "answer": "pleased",
+        "option": ["pleased", "upset", "tired", "worried"]
+    }
+]
