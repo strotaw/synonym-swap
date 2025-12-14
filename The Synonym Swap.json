@@ -1,7 +1,7 @@
 {
   "firstLayout": "MainMenuScene",
   "gdVersion": {
-    "build": 238,
+    "build": 245,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -12,7 +12,7 @@
     "antialisingEnabledOnMobile": false,
     "folderProject": false,
     "orientation": "landscape",
-    "packageName": "com.example.gamename",
+    "packageName": "com.solu.synonym_swap",
     "pixelsRounding": false,
     "projectUuid": "8d5cd76f-84a1-43f8-81dd-58b6754420f7",
     "scaleMode": "linear",
@@ -70,12 +70,12 @@
       "progressBarMaxWidth": 200,
       "progressBarMinWidth": 40,
       "progressBarWidthPercent": 30,
-      "showGDevelopSplash": true,
+      "showGDevelopSplash": false,
       "showProgressBar": true
     },
     "watermark": {
       "placement": "bottom-left",
-      "showWatermark": true
+      "showWatermark": false
     },
     "authorIds": [],
     "authorUsernames": [],
@@ -1395,7 +1395,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.5468750000000014,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -5080,6 +5081,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         }
@@ -5963,6 +5965,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         }
@@ -6846,6 +6849,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         }
@@ -7895,6 +7899,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -7943,6 +7948,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -7991,6 +7997,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -8411,6 +8418,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "111;72;0"
           }
         },
@@ -8639,6 +8647,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "111;72;0"
           }
         },
@@ -8953,6 +8962,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "255;255;255"
           }
         },
@@ -11763,6 +11773,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -11811,6 +11822,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -11859,6 +11871,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -12279,6 +12292,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "111;72;0"
           }
         },
@@ -12507,6 +12521,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "111;72;0"
           }
         },
@@ -12757,6 +12772,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -12805,6 +12821,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -13070,6 +13087,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "255;255;255"
           }
         },
@@ -16008,6 +16026,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -16056,6 +16075,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "0;0;0"
           }
         },
@@ -16354,6 +16374,7 @@
             "textAlignment": "center",
             "verticalTextAlignment": "center",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "111;72;0"
           }
         },
@@ -16778,6 +16799,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 60,
+            "lineHeight": 0,
             "color": "248;231;28"
           }
         },
@@ -16890,6 +16912,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 40,
+            "lineHeight": 0,
             "color": "255;255;255"
           }
         },
@@ -22207,6 +22230,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -22216,6 +22240,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -22655,6 +22680,7 @@
               "extraInformation": [
                 "AnimatableCapability::AnimatableBehavior"
               ],
+              "choices": [],
               "name": "Animation"
             },
             {
@@ -22664,6 +22690,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -24057,6 +24084,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -24066,6 +24094,7 @@
               "extraInformation": [
                 "EffectCapability::EffectBehavior"
               ],
+              "choices": [],
               "name": "Effect"
             },
             {
@@ -25120,6 +25149,7 @@
               "extraInformation": [
                 "ScalableCapability::ScalableBehavior"
               ],
+              "choices": [],
               "name": "Scale"
             },
             {
@@ -25129,6 +25159,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -25138,6 +25169,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "Tween"
             },
             {
@@ -26159,6 +26191,7 @@
               "extraInformation": [
                 "ButtonStates::ButtonFSM"
               ],
+              "choices": [],
               "name": "ButtonFSM"
             },
             {
@@ -26168,6 +26201,7 @@
               "extraInformation": [
                 "Tween::TweenBehavior"
               ],
+              "choices": [],
               "name": "Tween"
             },
             {
@@ -31668,6 +31702,7 @@
               "extraInformation": [
                 "TextContainerCapability::TextContainerBehavior"
               ],
+              "choices": [],
               "name": "Text"
             },
             {
@@ -33358,6 +33393,7 @@
                 "textAlignment": "",
                 "verticalTextAlignment": "top",
                 "characterSize": 20,
+                "lineHeight": 0,
                 "color": "0;0;0"
               }
             },
@@ -33564,6 +33600,7 @@
               "initialVariables": []
             }
           ],
+          "editionSettings": {},
           "eventsFunctions": [
             {
               "fullName": "",
@@ -35171,6 +35208,7 @@
                 "Label",
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "BarLeftPadding"
             },
@@ -35183,6 +35221,7 @@
                 "Label",
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "BarTopPadding"
             },
@@ -35195,6 +35234,7 @@
                 "Label",
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "BarRightPadding"
             },
@@ -35207,6 +35247,7 @@
                 "Label",
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "BarBottomPadding"
             },
@@ -35273,6 +35314,7 @@
               "extraInformation": [
                 "Thumb"
               ],
+              "choices": [],
               "hidden": true,
               "name": "ThumbAnchorOrigin"
             },
@@ -35284,6 +35326,7 @@
               "extraInformation": [
                 "FillBar"
               ],
+              "choices": [],
               "hidden": true,
               "name": "ThumbAnchorTarget"
             },
@@ -35295,6 +35338,7 @@
               "extraInformation": [
                 "Label"
               ],
+              "choices": [],
               "hidden": true,
               "name": "ShowLabel"
             },
@@ -35369,6 +35413,7 @@
                     "textAlignment": "",
                     "verticalTextAlignment": "top",
                     "characterSize": 20,
+                    "lineHeight": 0,
                     "color": "221;221;221"
                   }
                 },
@@ -35575,7 +35620,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             },
             {
               "areaMaxX": 583,
@@ -35625,6 +35671,7 @@
                     "textAlignment": "",
                     "verticalTextAlignment": "top",
                     "characterSize": 20,
+                    "lineHeight": 0,
                     "color": "221;221;221"
                   }
                 },
@@ -35831,7 +35878,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             },
             {
               "areaMaxX": 583,
@@ -35883,6 +35931,7 @@
                     "textAlignment": "",
                     "verticalTextAlignment": "top",
                     "characterSize": 20,
+                    "lineHeight": 0,
                     "color": "221;221;221"
                   }
                 },
@@ -36088,7 +36137,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             }
           ]
         }
@@ -37327,6 +37377,7 @@
                 "textAlignment": "center",
                 "verticalTextAlignment": "center",
                 "characterSize": 20,
+                "lineHeight": 0,
                 "color": "0;0;0"
               }
             },
@@ -37525,6 +37576,7 @@
               "initialVariables": []
             }
           ],
+          "editionSettings": {},
           "eventsFunctions": [
             {
               "fullName": "",
@@ -38746,6 +38798,7 @@
                     "textAlignment": "center",
                     "verticalTextAlignment": "center",
                     "characterSize": 40,
+                    "lineHeight": 0,
                     "color": "0;0;0"
                   }
                 },
@@ -38943,7 +38996,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             }
           ]
         }
